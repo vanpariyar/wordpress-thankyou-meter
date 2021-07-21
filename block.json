@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/wordpress-thankyou-meter",
+	"version": "0.1.0",
+	"title": "Wordpress Thankyou Meter",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "wordpress-thankyou-meter",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
